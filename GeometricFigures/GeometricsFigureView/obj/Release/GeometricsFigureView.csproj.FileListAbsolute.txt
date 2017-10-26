@@ -1,0 +1,65 @@
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe.config
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.xml
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.CircleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.FigureControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RectangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RingControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.TriangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csproj.GenerateResource.Cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.pdb
+D:\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe.config
+D:\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.exe
+D:\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.pdb
+G:\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe.config
+G:\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.exe
+G:\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe.config
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.dll
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.xml
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.CircleControl.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.FigureControl.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RectangleControl.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RingControl.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.TriangleControl.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csproj.GenerateResource.Cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe.config
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.exe
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricsFigureView.pdb
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.dll
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.dll
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.pdb
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\GeometricFigures.dll.config
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Release\Newtonsoft.Json.xml
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csprojResolveAssemblyReference.cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.AddFigureForm.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.CircleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.FigureControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RectangleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.RingControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Controls.TriangleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.MainForm.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.Properties.Resources.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csproj.GenerateResource.Cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.csproj.CoreCompileInputs.cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.exe
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Release\GeometricsFigureView.pdb

@@ -1,0 +1,10 @@
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\ConsoleLoader.exe.config
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\ConsoleLoader.exe
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\ConsoleLoader.pdb
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\GeometricFigures.dll
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\GeometricFigures.pdb
+D:\user\Downloads\GeometricFigures\ConsoleLoader\bin\Release\GeometricFigures.dll.config
+D:\user\Downloads\GeometricFigures\ConsoleLoader\obj\Release\ConsoleLoader.csprojResolveAssemblyReference.cache
+D:\user\Downloads\GeometricFigures\ConsoleLoader\obj\Release\ConsoleLoader.csproj.CoreCompileInputs.cache
+D:\user\Downloads\GeometricFigures\ConsoleLoader\obj\Release\ConsoleLoader.exe
+D:\user\Downloads\GeometricFigures\ConsoleLoader\obj\Release\ConsoleLoader.pdb

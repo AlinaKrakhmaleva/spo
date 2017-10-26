@@ -1,0 +1,66 @@
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\ru\GeometricsFigureView.resources.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.ru.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.GenerateResource.Cache
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\ru\GeometricsFigureView.resources.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Documents\Visual Studio 2015\Projects\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.CircleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.FigureControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.RectangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.RingControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.TriangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.ru.resources
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.GenerateResource.Cache
+C:\Users\Siste\Desktop\Новая папка (5)\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.CircleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.FigureControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.RectangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.RingControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.TriangleControl.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Properties.Resources.resources
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.GenerateResource.Cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.exe
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricsFigureView\bin\Debug\Newtonsoft.Json.xml
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe.config
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.exe
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricsFigureView.pdb
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\Newtonsoft.Json.dll
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.pdb
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\GeometricFigures.dll.config
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\bin\Debug\Newtonsoft.Json.xml
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csprojResolveAssemblyReference.cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.AddFigureForm.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.CircleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.FigureControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.RectangleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Controls.TriangleControl.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.MainForm.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.Properties.Resources.resources
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.GenerateResource.Cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.csproj.CoreCompileInputs.cache
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.exe
+D:\user\Downloads\GeometricFigures\GeometricsFigureView\obj\Debug\GeometricsFigureView.pdb

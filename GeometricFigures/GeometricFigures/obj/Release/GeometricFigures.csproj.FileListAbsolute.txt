@@ -1,0 +1,19 @@
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll.config
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.pdb
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll.config
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.pdb
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csprojResolveAssemblyReference.cache
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.dll
+C:\Users\Siste\Desktop\флиха\Новая папка\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.pdb
+D:\user\Downloads\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll.config
+D:\user\Downloads\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll
+D:\user\Downloads\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.pdb
+D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csprojResolveAssemblyReference.cache
+D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csproj.CoreCompileInputs.cache
+D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.dll
+D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.pdb
