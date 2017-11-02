@@ -17,3 +17,10 @@ D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures
 D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csproj.CoreCompileInputs.cache
 D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.dll
 D:\user\Downloads\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.pdb
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll.config
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.dll
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\bin\Release\GeometricFigures.pdb
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.dll
+C:\Users\user\source\repos\onemoretime\GeometricFigures\GeometricFigures\obj\Release\GeometricFigures.pdb

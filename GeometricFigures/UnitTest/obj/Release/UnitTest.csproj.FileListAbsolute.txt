@@ -7,3 +7,13 @@ C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\Geometric
 C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
 C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Release\UnitTest.dll
 C:\Users\Siste\Desktop\Новая папка (5)\Новая папка\GeometricFigures\UnitTest\obj\Release\UnitTest.pdb
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\UnitTest.dll
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\UnitTest.pdb
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\GeometricFigures.dll
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\GeometricFigures.pdb
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\GeometricFigures.dll.config
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\bin\Release\nunit.framework.xml
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\obj\Release\UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\obj\Release\UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\obj\Release\UnitTest.dll
+C:\Users\user\source\repos\onemoretime\GeometricFigures\UnitTest\obj\Release\UnitTest.pdb

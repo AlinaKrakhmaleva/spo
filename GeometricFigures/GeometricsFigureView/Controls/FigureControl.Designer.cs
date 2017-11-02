@@ -32,10 +32,8 @@ namespace GeometricsFigureView.Controls
         {
             this.FigureComboBox1 = new System.Windows.Forms.ComboBox();
             this.label1 = new System.Windows.Forms.Label();
-            this.triangleControl1 = new GeometricsFigureView.Controls.TriangleControl();
             this.triangleControl = new GeometricsFigureView.Controls.TriangleControl();
             this.rectangleControl = new GeometricsFigureView.Controls.RectangleControl();
-            this.circleControl1 = new GeometricsFigureView.Controls.CircleControl();
             this.circleControl = new GeometricsFigureView.Controls.CircleControl();
             this.SuspendLayout();
             // 
@@ -58,13 +56,6 @@ namespace GeometricsFigureView.Controls
             this.label1.TabIndex = 1;
             this.label1.Text = "Выберите фигуру";
             // 
-            // triangleControl1
-            // 
-            this.triangleControl1.Location = new System.Drawing.Point(15, 60);
-            this.triangleControl1.Name = "triangleControl1";
-            this.triangleControl1.Size = new System.Drawing.Size(390, 110);
-            this.triangleControl1.TabIndex = 5;
-            // 
             // triangleControl
             // 
             this.triangleControl.Location = new System.Drawing.Point(15, 60);
@@ -78,13 +69,6 @@ namespace GeometricsFigureView.Controls
             this.rectangleControl.Name = "rectangleControl";
             this.rectangleControl.Size = new System.Drawing.Size(390, 110);
             this.rectangleControl.TabIndex = 7;
-            // 
-            // circleControl1
-            // 
-            this.circleControl1.Location = new System.Drawing.Point(15, 60);
-            this.circleControl1.Name = "circleControl1";
-            this.circleControl1.Size = new System.Drawing.Size(390, 110);
-            this.circleControl1.TabIndex = 2;
             // 
             // circleControl
             // 
@@ -113,10 +97,8 @@ namespace GeometricsFigureView.Controls
 
         private System.Windows.Forms.ComboBox FigureComboBox1;
         private System.Windows.Forms.Label label1;
-        private TriangleControl triangleControl1;
         private TriangleControl triangleControl;
         private RectangleControl rectangleControl;
-        private CircleControl circleControl1;
         private CircleControl circleControl;
     }
 }

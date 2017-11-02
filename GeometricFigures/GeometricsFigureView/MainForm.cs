@@ -144,51 +144,11 @@ namespace GeometricsFigureView
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            if (_figures.Count == 0)
-            {
-                MessageBox.Show("Список фигур пуст");
-            }
-            var saveFileDialogForm = new SaveFileDialog();
-            saveFileDialogForm.Filter = "Списки фигур (.ifgr)|*.ifgr";
-            if (saveFileDialogForm.ShowDialog() == DialogResult.OK)
-            {
-                using (StreamWriter sw = new StreamWriter(saveFileDialogForm.FileName))
-                using (JsonWriter writer = new JsonTextWriter(sw))
-                {
-                    serializer.Serialize(writer, _figures);
-                }
-                MessageBox.Show("Список сохранен");
-            };
-        }
+        
 
-        private JsonSerializer serializer = new Newtonsoft.Json.JsonSerializer()
-        {
-            TypeNameHandling = TypeNameHandling.All,
-            Formatting = Formatting.Indented,
-            NullValueHandling = NullValueHandling.Include
-        };
+        
 
-        private void button2_Click(object sender, EventArgs e)
-        {
-            var openFile = new OpenFileDialog();
-                openFile.Filter = "Списки фигур (.ifgr)|*.ifgr";
-                if (openFile.ShowDialog() == DialogResult.OK)
-                {
-                    using (StreamReader sr = new StreamReader(openFile.FileName))
-                    using (JsonReader reader = new JsonTextReader(sr))
-                    {
-                        _figures = (List<IFigure>)serializer.Deserialize(reader, typeof(List<IFigure>));
-                        FigureDataGridView.Rows.Clear();
-                        foreach (var data in _figures)
-                        {
-                            FigureDataGridView.Rows.Add(data.GetType().Name, data.Area, data.Perimeter);
-                        };
-                    }
-                }
-            }
-
+       
         
         
     }
